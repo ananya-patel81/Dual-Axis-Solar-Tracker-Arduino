@@ -1,4 +1,4 @@
-**Daul-Axis Solar Tracker**
+# **Dual-Axis Solar Tracker**
 
 ![Project Photo](arduino.png)
 
@@ -18,14 +18,3 @@
 **Usage**
 - **Code**: See the main control sketch: [main.ino](main.ino)
 - **Deploy**: Open the Arduino IDE, load the sketch, select the correct board and COM port, then upload.
-
-**Files**
-- **Source**: [main.ino](main.ino) — main control logic for sensors and servos.
-- **Photo**: arduino.png — project photo included at repository root.
-
-**Notes**
-- **Tuning**: Adjust tolerance and servo limits in [main.ino](main.ino) to match your hardware and panel geometry.
-- **Safety**: Secure servos and panel mounts; avoid continuous rapid movements under unstable readings.
-
-If you want, I can also move the photo into the photos/ folder and update the README accordingly.
-# Daul-Axis-Solar-Tracker-Arduino
